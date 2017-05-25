@@ -1,0 +1,39 @@
+﻿body {
+	color: #404040;
+	font-size: 12pt;
+ 	background-image: url("silverware2.png");
+	background-attachment: fixed;
+	background-position: center; 
+	font-family: "Times New Roman", serif;
+  	height: 100%;
+}
+
+h1.starting {
+	text-align: center;
+	color: #FF7533;
+	font-family: cursive;		
+}
+
+h1.ending {
+	text-align: center;
+	color: #FF7533;
+	font-family: cursive;		
+}
+h2 {
+	color: #FF0000;
+	background-color: #FFFF00;
+	font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+a {
+	color: #00FF00;	
+}
+
+
+h3 {
+	font-size: 22pt;
+}
+
